@@ -18,15 +18,3 @@ Register/ Sign In -
 
 <img width="579" alt="22" src="https://github.com/Aniket109dd/WordWeave-Content-Reading-Posting-Website/assets/134318350/cafc888a-10a4-43ad-a591-f4c3ff91dbfc">
 
-
-Dashboard page -
-
-
-
-<img width="581" alt="33" src="https://github.com/Aniket109dd/WordWeave-Content-Reading-Posting-Website/assets/134318350/b922afd3-c59c-495f-a064-50b96a50aa57">
-
-
-Edit/Delete page - 
-
-
-<img width="581" alt="44" src="https://github.com/Aniket109dd/WordWeave-Content-Reading-Posting-Website/assets/134318350/d3d36c23-63f0-41e4-a49e-5b45d91d7ed0">
